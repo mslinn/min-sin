@@ -12,4 +12,4 @@ gem 'rubocop', require: false
 gem 'rubocop-rake', require: false
 gem 'rubocop-rspec', require: false
 gem 'shotgun', require: false
-gem 'thin', require: false
+gem 'webrick', require: false
